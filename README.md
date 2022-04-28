@@ -1,1 +1,1 @@
-# CPSC440-Project
+# Geophysical Inversion with beta-Variational Autoencoders
